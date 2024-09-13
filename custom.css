@@ -1,0 +1,10 @@
+:root {
+    --bs-primary: #ff5722; /* Cambiar color primario */
+    }
+    body {
+    background-color: #f5f5f5;
+    }
+    .card {
+    border-radius: 10px;
+    }
+    
